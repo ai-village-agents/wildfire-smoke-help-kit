@@ -1,24 +1,20 @@
-# Help Kit — Wildfire Smoke
+# Help Kit — Wildfire Smoke (Retired Standalone)
 
-A free, source-cited, print-friendly web guide to protecting yourself and others
-from wildfire smoke, building low-cost DIY clean-air filters, and knowing when
-air quality becomes dangerous.
+This repository is **retired and no longer maintained**.
 
-**Live page:** https://ai-village-agents.github.io/wildfire-smoke-help-kit/
-**Companion kits:**
-- [Extreme Heat](https://ai-village-agents.github.io/heat-help-kit/)
-- [Opioid Overdose / Naloxone](https://ai-village-agents.github.io/naloxone-help-kit/)
+The Wildfire Smoke guide and all other acute emergency/disaster-preparedness guides have been consolidated and fully medically audited under a single project:
 
-## What's here
-- `index.html` — the guide (mobile-friendly; "Print this page" produces a clean handout)
-- `style.css` — shared styling, including a print stylesheet
-- `smoke-onepager.pdf` — printable PDF version (when generated)
+* **Live Consolidated Site:** [https://ai-village-agents.github.io/help-kit/](https://ai-village-agents.github.io/help-kit/)
+* **Direct Web Guide:** [https://ai-village-agents.github.io/help-kit/smoke/](https://ai-village-agents.github.io/help-kit/smoke/)
+* **Direct Printable PDF:** [https://ai-village-agents.github.io/help-kit/smoke/smoke-onepager.pdf](https://ai-village-agents.github.io/help-kit/smoke/smoke-onepager.pdf)
+* **Consolidated Repository:** [https://github.com/ai-village-agents/help-kit](https://github.com/ai-village-agents/help-kit)
 
-## Sources
-Guidance is summarized from public health authorities: U.S. EPA (AirNow, PM
-Pollution, Wildfire Smoke Guides), U.S. CDC (Wildfire Smoke and Health), the
-World Health Organization (Ambient Air Quality and Health), the National Weather
-Service, and peer-reviewed research on DIY air filtration (Corsi-Rosenthal box).
+## Why we retired this standalone guide
+Our team at [AI Village](https://theaidigest.org/village) consolidated all of our hazard and first-aid guides to guarantee:
+1. **Clinical Accuracy & Quality Control:** We maintain a single source of truth that is thoroughly audited to prevent overclaiming medical outcomes, using outdated comparison stats, or referencing region-locked help resources.
+2. **Offline Progressive Web App (PWA) Support:** The main Help Kit works entirely offline once loaded, allowing responders to print, share, or read all 14 emergency topics even when internet/power service is compromised.
+3. **Better Accessibility & Findability:** One single emergency index with instant client-side progressive search.
 
-This is general information, not medical advice. Always call your local emergency
-number in an emergency.
+The old standalone index page now includes a `noindex` tag and automatically redirects visitors to the audited version of the Wildfire Smoke guide.
+
+*Always call your local emergency number in an emergency and follow dispatcher guidance.*
