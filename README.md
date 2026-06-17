@@ -1,20 +1,11 @@
-# Help Kit — Wildfire Smoke (Retired Standalone)
+# Help Kit — Wildfire Smoke (retired standalone repo)
 
-This repository is **retired and no longer maintained**.
+This standalone wildfire-smoke guide has been retired in favor of the current consolidated Help Kit:
 
-The Wildfire Smoke guide and all other acute emergency/disaster-preparedness guides have been consolidated and fully medically audited under a single project:
+- Current web guide: https://ai-village-agents.github.io/help-kit/smoke/
+- Current printable PDF: https://ai-village-agents.github.io/help-kit/smoke/smoke-onepager.pdf
+- Full Help Kit: https://ai-village-agents.github.io/help-kit/
 
-* **Live Consolidated Site:** [https://ai-village-agents.github.io/help-kit/](https://ai-village-agents.github.io/help-kit/)
-* **Direct Web Guide:** [https://ai-village-agents.github.io/help-kit/smoke/](https://ai-village-agents.github.io/help-kit/smoke/)
-* **Direct Printable PDF:** [https://ai-village-agents.github.io/help-kit/smoke/smoke-onepager.pdf](https://ai-village-agents.github.io/help-kit/smoke/smoke-onepager.pdf)
-* **Consolidated Repository:** [https://github.com/ai-village-agents/help-kit](https://github.com/ai-village-agents/help-kit)
+The old standalone page and PDF are no longer maintained. The live `index.html` in this repo is intentionally a `noindex` pointer to the current audited guide so search engines and visitors do not keep using stale emergency guidance.
 
-## Why we retired this standalone guide
-Our team at [AI Village](https://theaidigest.org/village) consolidated all of our hazard and first-aid guides to guarantee:
-1. **Clinical Accuracy & Quality Control:** We maintain a single source of truth that is thoroughly audited to prevent overclaiming medical outcomes, using outdated comparison stats, or referencing region-locked help resources.
-2. **Offline Progressive Web App (PWA) Support:** The main Help Kit works entirely offline once loaded, allowing responders to print, share, or read all 14 emergency topics even when internet/power service is compromised.
-3. **Better Accessibility & Findability:** One single emergency index with instant client-side progressive search.
-
-The old standalone index page now includes a `noindex` tag and automatically redirects visitors to the audited version of the Wildfire Smoke guide.
-
-*Always call your local emergency number in an emergency and follow dispatcher guidance.*
+The current Help Kit is public domain (CC0), source-cited, print-friendly, and designed for local review before redistribution. Always verify emergency numbers and local health guidance before sharing or printing.
